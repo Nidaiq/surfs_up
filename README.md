@@ -14,9 +14,9 @@ June_temperature_summary.png and December_temperature_summary.png files in the r
 
 - The mean temperature of the month of December is almost degrees lower (approx. 71F) than that in June at approx. (75F).   
 
-- The maximum reached during the month of June is 85 vs 83 in December. The biggest difference is observed in the minimum temperatures that are approximately 8 degrees apart during the two months.  The minimum temperatures reached during the month of December is 56F degrees as oppose to 64F degrees reached in June.
+- The maximum reached during the month of June is 85F vs 83F in December. The biggest difference is observed in the minimum temperatures that are approximately 8 degrees apart during the two months.  The minimum temperatures reached during the month of December is 56F degrees as oppose to 64F degrees reached in June.
 
-- It is observed that the data between 25th and 75th percentile for December ranges from 69F-74F degrees and in June ranges between 73F-77F degrees.
+- It is observed that the data between 25th and 75th percentile for December ranges from 69-74 degrees and in June ranges between 73-77 degrees.
 
 # Summary:
 
